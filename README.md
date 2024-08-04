@@ -1,6 +1,6 @@
-# In order to run an test these projects, you need to follow the steps described bellow.
+## In order to run an test these projects, you need to follow the steps described bellow.
 
-# Prerequisites
+## Prerequisites
 Install .NET SDK: Ensure you have the .NET SDK installed on your machine.
 Git: Ensure you have Git installed to clone the repository.
 Install SQL Server: Ensure you have SQL Server installed and running on your machine. You can use SQL Server Express for a free version.
