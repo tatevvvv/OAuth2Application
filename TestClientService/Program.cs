@@ -80,7 +80,7 @@ public sealed class Program
     {
         client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
-        var response = await client.GetAsync("https://localhost:5001/api/resource");
+        var response = await client.GetAsync("https://localhost:5002/api/mathconstants");
         if (response.IsSuccessStatusCode)
         {
             return await response.Content.ReadAsStringAsync();
