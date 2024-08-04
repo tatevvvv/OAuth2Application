@@ -1,4 +1,4 @@
-## In order to run an test these projects, you need to follow the steps described bellow.
+## In order to run an test these projects, follow the steps described bellow.
 
 ## Prerequisites
 Install .NET SDK: Ensure you have the .NET SDK installed on your machine.
